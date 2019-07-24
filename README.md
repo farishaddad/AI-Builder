@@ -9,6 +9,24 @@ Harnessing the power of artificial intelligence has historically been out of rea
 ## Level
 This course is designed as a beginner course for all skill levels. Basic famililarity with PowerApps will be advantageous. Recommended learning path: [Create a Canvas App in PowerApps](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/).
 
+## High-Level Flow
+1. **Select a model type**
+Supported scenarios currently include Binary Classification, Form Processing, Object Detection, and Text Classification.
+
+2. **Connect the model to data**
+AI Builder can train models based off data that resides within the Common Data Service.
+
+3. **Configure the model**
+Follow the point and click model building wizard interface. No coding required.
+
+4. **Train the model**
+This is an automated process handled by the AI Builder service, based on the previously provided inputs.
+
+5. **Publish and use the model**
+As an example, there are special AI Builder components available within PowerApps such as a Form Processor or Object Detector. These objects can be connected to a published model.
+
+![alt text](images/ai_builder_flow.png "AI Builder Process Flow")
+
 ## Course Modules
 * Lab 1 - [Form Processing](labs/lab-form-processing.md)
 * Lab 2 - Object Detection
