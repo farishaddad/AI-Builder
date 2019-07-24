@@ -1,5 +1,5 @@
 # AI-Builder
-Harnessing the power of artificial intelligence has historically been out of reach for many. AI Builder is part of Microsoft’s ongoing efforts to democratize AI, empowering users of all skill levels to build, train, and publish AI models in a no-code, guided, point and click environment. Available in public preview, anyone can now infuse AI within their business applications with PowerApps, or add intelligence to work processes with Flow.
+AI Builder is a new Power Platform capability that allows you to easily automate processes and predict outcomes to help improve business performance. AI Builder is a turnkey solution that brings the power of AI through a point-and-click experience. Using AI Builder, you can add intelligence to your apps even if you have no coding or data science skills.
 
 ## Pre Requisites
 1. Access to [PowerApps](https://powerapps.microsoft.com/en-us/)
