@@ -3,8 +3,9 @@ AI Builder is a new Power Platform capability that allows you to easily automate
 
 ## Pre Requisites
 1. Access to [PowerApps](https://powerapps.microsoft.com/en-us/)
-2. Create (or be added to) an environment in one of the [supported regions](https://docs.microsoft.com/en-us/ai-builder/administer#supported-regions). Note: While in preview, AI Builder is only available in the United States or Europe. AI Builder features will not be available in environments created outside of these regions.
-3. Ensure that your account has the **Environment Maker** role assigned, see [Security in AI Builder](https://docs.microsoft.com/en-us/ai-builder/security) for more details.
+2. Create (or be added to) an environment in one of the [supported regions](https://docs.microsoft.com/en-us/ai-builder/administer#supported-regions).  
+Note: While in preview, AI Builder is only available in the United States or Europe. AI Builder features will not be available in environments created outside of these regions.
+3. Ensure that your account has the Environment Maker role assigned, see [Security in AI Builder](https://docs.microsoft.com/en-us/ai-builder/security) for more details.
 
 ## Level
 This course is designed as a beginner course for all skill levels. Basic famililarity with PowerApps will be advantageous. Recommended learning path: [Create a Canvas App in PowerApps](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/).
