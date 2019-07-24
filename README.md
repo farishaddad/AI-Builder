@@ -57,21 +57,21 @@ An AI model that uses machine learning to extract key-value pairs and table data
 * Lab 4 - Text Classification
 
 ## Resources
-[AI Builder - Announcement](https://powerapps.microsoft.com/en-us/blog/introducing-ai-builder-for-powerplatform/)  
-[AI Builder - Documentation](https://docs.microsoft.com/en-us/ai-builder/overview)  
-[AI Builder - Labs](https://aka.ms/ai-builder-labs)  
-[AI Builder - Forum](https://powerusers.microsoft.com/t5/forums/filteredbylabelpage/board-id/PowerAppsForum1/label-name/ai%20builder)  
-[AI Builder for Microsoft PowerApps](https://aka.ms/PowerApps_AIBuilder)  
-[AI Builder for Microsoft Flow](https://aka.ms/Flow_AIBuilder)  
+* [AI Builder - Announcement](https://powerapps.microsoft.com/en-us/blog/introducing-ai-builder-for-powerplatform/)
+* [AI Builder - Documentation](https://docs.microsoft.com/en-us/ai-builder/overview)
+* [AI Builder - Labs](https://aka.ms/ai-builder-labs)
+* [AI Builder - Forum](https://powerusers.microsoft.com/t5/forums/filteredbylabelpage/board-id/PowerAppsForum1/label-name/ai%20builder)
+* [AI Builder for Microsoft PowerApps](https://aka.ms/PowerApps_AIBuilder)
+* [AI Builder for Microsoft Flow](https://aka.ms/Flow_AIBuilder)  
 
 ## Videos
 **General**  
-[AI Builder is now available](https://www.youtube.com/watch?v=WSWmn7WM3i4)  
+* [AI Builder is now available](https://www.youtube.com/watch?v=WSWmn7WM3i4)
 
 **Microsoft Business Applications Summit 2019 (June 10-11, Atlanta - Georgia)**  
-[Introducing AI Builder](https://www.youtube.com/watch?v=JOt_mXqVxFI)  
-[Learn how to add AI to the Power Platform to solve business problems](https://www.youtube.com/watch?v=E1be_J1qxro) 
+* [Introducing AI Builder](https://www.youtube.com/watch?v=JOt_mXqVxFI)
+* [Learn how to add AI to the Power Platform to solve business problems](https://www.youtube.com/watch?v=E1be_J1qxro)
 
 **Microsoft Inspire 2019 (July 14-18, Las Vegas - Nevada)**  
-[Empowering Citizen Developers with AI Builder](https://www.youtube.com/watch?v=IA8aRy_WM4s)  
-[AI Builder: Adding Intelligence to the Power Platform](https://myinspire.microsoft.com/sessions/546b0ac7-a254-45a6-b322-6720d23f9a56)
+* [Empowering Citizen Developers with AI Builder](https://www.youtube.com/watch?v=IA8aRy_WM4s)
+* [AI Builder: Adding Intelligence to the Power Platform](https://myinspire.microsoft.com/sessions/546b0ac7-a254-45a6-b322-6720d23f9a56)
