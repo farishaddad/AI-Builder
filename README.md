@@ -24,8 +24,30 @@ This is an automated process handled by the AI Builder service, based on the pre
 
 5. **Publish and use the model**
 As an example, there are special AI Builder components available within PowerApps such as a Form Processor or Object Detector. These objects can be connected to a published model.
+<p align="center">
+  <img src="./images/ai_builder_flow.png" alt="AI Builder Process Flow">
+</p>
 
-![alt text](images/ai_builder_flow.png "AI Builder Process Flow")
+## Supported Scenarios
+<img align="left" src="./images/binary_classification.png" width="80px">  
+
+**Binary Classification**  
+An AI model that classifies elements of a given data set into two distinct groups by understanding historical data patterns with historical outcomes. Use this AI model for any business questions that can be answered in one of two options (e.g. yes/no, pass/fail, go/no-go). Use cases: Fraud/Not Fraud, Credit Approved/Credit Declined, Customer Churn/Not Churn, etc.
+
+<img align="left" src="./images/text_classification.png" width="80px"> 
+
+**Text Classification**  
+The process of automatically tagging text entries by learning from previously labeled text items. This enables us to classify unstructured text data stored in the Common Data Service with meaningful business categories. Use cases: Call analytics, feedback processing, content categorization, etc.
+
+<img align="left" src="./images/object_detection.png" width="80px">  
+
+**Object Detection**  
+This model is able to detect instances of objects that appear within digital images.  In order for the model to learn, you must collate a sample of images which contain the objects we are trying to detect. Use cases: Quality Control, Inventory Management, Automation, etc.
+
+<img align="left" src="./images/form_processing.png" width="80px">  
+
+**Form Processing**  
+An AI model that uses machine learning to extract key-value pairs and table data from form documents. After the model has been trained, you can elect which specific pieces of information need to be retrieved. Use cases: Registration Forms, Work Orders, Invoices, etc.
 
 ## Course Modules
 * Lab 1 - [Form Processing](labs/lab-form-processing.md)
