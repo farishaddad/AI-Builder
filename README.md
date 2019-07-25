@@ -2,17 +2,17 @@
 AI Builder is a new Power Platform capability that allows you to easily automate processes and predict outcomes to help improve business performance. AI Builder is a turnkey solution that brings the power of AI through a point-and-click experience. Using AI Builder, you can add intelligence to your apps even if you have no coding or data science skills.
 
 <p align="center">
-  <img src="./images/power_platform.png" alt="AI Builder Process Flow">
+  <img src="./images/power_platform.png" alt="AI Builder Process Flow" width="400px">
 </p>
 
 ## Table of Contents
    [1. Prerequisites](#1-prerequisites)  
-   [2. Audience](#audience)  
-   [3. High-Level Flow](#2-high-level-flow)  
-   [4. Supported Scenarios](#3-supported-scenarios)  
-   [5. Course Modules](#4-course-modules)  
-   [6. Resources](#5-resources)  
-   [7. Videos](#6-videos)  
+   [2. Audience](#2-audience)  
+   [3. High-Level Flow](#3-high-level-flow)  
+   [4. Supported Scenarios](#4-supported-scenarios)  
+   [5. Course Modules](#5-course-modules)  
+   [6. Resources](#6-resources)  
+   [7. Videos](#7-videos)  
 
 ## 1. Prerequisites
 1. Access to [PowerApps](https://powerapps.microsoft.com/en-us/)
