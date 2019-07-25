@@ -1,3 +1,5 @@
+[README](../README.md) > [Lab 1 - Form Processing](./lab-form-processing.md)
+
 # Lab 1 - Form Processing
 In this lab we will build, train, and publish, a form processing AI model that will be able to extract key-value pairs and table data. We will then create a simple form processing application that will leverage this AI model and render the processed results.
 
