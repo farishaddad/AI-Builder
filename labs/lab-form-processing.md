@@ -1,16 +1,42 @@
 # Lab 1 - Form Processing
-In this lab we will build, train, and publish, an AI model that can extract key-value pairs and table data from forms. We will then create a simple form processing application that will invoke this model and render the processed results.
+In this lab we will build, train, and publish, a form processing AI model that will be able to extract key-value pairs and table data. We will then create a simple form processing application that will leverage this AI model and render the processed results.
 
-## Step 1 - ABC
+## Prerequisites
+1. Meet the standard set of prerequisites required for all labs as outlined in the main [README](../README.md)
+2. Download the [Form Processing Sample Data](../data/ai-builder-lab-formprocessing.zip)
+3. Extract the contents of the zip file on your local machine
 
+## Step 1 - Sign in to PowerApps
+1. Navigate to [https://powerapps.microsoft.com/](https://powerapps.microsoft.com/) and click **Sign in**  
 ![alt text](../images/img-lab-fp-01.png "Alt")  
+
+2. Enter your Microsoft account (Email address) and click **Next**  
 ![alt text](../images/img-lab-fp-02.png "Alt")  
+
+3. Enter your password and click **Sign in**  
 ![alt text](../images/img-lab-fp-03.png "Alt")  
+
+4. When prompted to Stay sign in, click **Yes**  
 ![alt text](../images/img-lab-fp-04.png "Alt")  
+
+## Step 2 - Select an Environment
+Once signed in, the default environment will likely be selected. Switch to an environment that has AI Builder enabled by opening the Environment drop-down menu at the top of the page. In this example, we would like to switch to the **Lab** environment.
+
+Note: A pre-requisite to this lab is that an environment is created in one of the supported AI Builder regions (United States or Europe).  
 ![alt text](../images/img-lab-fp-05.png "Alt")  
+
+## Step 3 - Build an AI Model
+1. On the left side panel, expand **AI Builder**, click **Build**, click **Form Processing**  
 ![alt text](../images/img-lab-fp-06.png "Alt")  
+
+2. Provide your model a **name** (e.g. Form Processing Model) and click **Create**  
 ![alt text](../images/img-lab-fp-07.png "Alt")  
+
+3. Click **Add documents**  
 ![alt text](../images/img-lab-fp-08.png "Alt")  
+
+4. 
+![alt text](../images/img-lab-fp-09.png "Alt")  
 ![alt text](../images/img-lab-fp-10.png "Alt")  
 ![alt text](../images/img-lab-fp-11.png "Alt")  
 ![alt text](../images/img-lab-fp-12.png "Alt")  
