@@ -20,7 +20,7 @@ In this lab we will build, train, and publish, a form processing AI model that w
 ![alt text](../images/img-lab-fp-04.png "Alt")  
 
 ## Step 2 - Select an Environment
-Once signed in, the default environment will likely be selected. Switch to an environment that has AI Builder enabled by opening the Environment drop-down menu at the top of the page. In this example, we would like to switch to the **Lab** environment.
+Once signed in, the default environment will be selected. Switch to an environment that has AI Builder enabled by opening the Environment drop-down menu at the top of the page. In this example, we would like to switch to the **Lab** environment.
 
 Note: A prerequisite to this lab is that an environment is created in one of the supported AI Builder regions (United States or Europe).  
 ![alt text](../images/img-lab-fp-05.png "Alt")  
