@@ -23,7 +23,7 @@ Note: While in preview, AI Builder is only available in the United States or Eur
 <div align="right"><a href="#ai-builder">↥ back to top</a></div>
 
 ## 2. Audience
-This course is designed as a beginner course for all skill levels. Basic famililarity with PowerApps will be advantageous. Recommended learning path: [Create a Canvas App in PowerApps](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/).
+This course is designed as a beginner course for all skill levels. Basic famililarity with PowerApps will be advantageous. Recommended learning path as a precursor to the AI Builder tutorials: [Create a Canvas App in PowerApps](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/).
 
 <div align="right"><a href="#ai-builder">↥ back to top</a></div>
 
