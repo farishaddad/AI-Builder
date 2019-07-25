@@ -9,7 +9,7 @@ In this lab we will build, train, and publish, a form processing AI model that w
 ## Table of Contents
    [Step 1 - Sign in to PowerApps](#step-1---sign-in-to-powerapps)  
    [Step 2 - Select an Environment](#step-2---select-an-environment)  
-   [Step 3 - Build, Train, and Publish an AI Model](#step-3---build,-train,-and-publish-an-ai-model)  
+   [Step 3 - Build, Train, and Publish an AI Model](#step-3---build-train-and-publish-an-ai-model)  
    [Step 4 - Create a Canvas app](#step-4---create-a-canvas-app)  
 
 ## Step 1 - Sign in to PowerApps
