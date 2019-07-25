@@ -3,7 +3,7 @@ In this lab we will build, train, and publish, a form processing AI model that w
 
 ## Prerequisites
 1. Meet the standard set of prerequisites required for all labs as outlined in the main [README](../README.md)
-2. Download the [Form Processing Sample Data](../data/ai-builder-lab-formprocessing.zip)
+2. Download the [Form Processing Sample Data](../raw/master/data/ai-builder-lab-formprocessing.zip)
 3. Extract the contents of the zip file on your local machine
 
 ## Step 1 - Sign in to PowerApps
@@ -35,7 +35,7 @@ Note: A prerequisite to this lab is that an environment is created in one of the
 3. Click **Add documents**  
 ![alt text](../images/img-lab-fp-08.png "Alt")  
 
-4. Navigate to the extracted contents of the provided [sample data](../data/ai-builder-lab-formprocessing.zip) and select the five forms under the **training** folder. Click **Open**.  
+4. Navigate to the extracted contents of the provided [sample data](../raw/master/data/ai-builder-lab-formprocessing.zip) and select the five forms under the **training** folder. Click **Open**.  
 ![alt text](../images/img-lab-fp-09.png "Alt")  
 
 5. Click **Upload 5 documents**  
