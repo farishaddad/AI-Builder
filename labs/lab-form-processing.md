@@ -6,6 +6,12 @@ In this lab we will build, train, and publish, a form processing AI model that w
 2. Download the [Form Processing Sample Data](../../../raw/master/data/ai-builder-lab-formprocessing.zip)
 3. Extract the contents of the zip file on your local machine
 
+## Table of Contents
+   [Step 1 - Sign in to PowerApps](#step-1---sign-in-to-powerapps)  
+   [Step 2 - Select an Environment](#step-2---select-an-environment)  
+   [Step 3 - Build, Train, and Publish an AI Model](#step-3---build,-train,-and-publish-an-ai-model)  
+   [Step 4 - Create a Canvas app](#step-4---create-a-canvas-app)  
+
 ## Step 1 - Sign in to PowerApps
 1. Navigate to [https://powerapps.microsoft.com/](https://powerapps.microsoft.com/) and click **Sign in**  
 [![alt text](../images/img-lab-fp-01.png "Alt")](../../../raw/master/images/img-lab-fp-01.png)  
@@ -19,11 +25,15 @@ In this lab we will build, train, and publish, a form processing AI model that w
 4. When prompted to "Stay signed in", click **Yes**  
 ![alt text](../images/img-lab-fp-04.png "Alt")  
 
+<div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
+
 ## Step 2 - Select an Environment
-Once signed in, the default environment will be selected. Switch to an environment that has AI Builder enabled by opening the Environment drop-down menu at the top of the page. In this example, we would like to switch to the **Lab** environment.
+Upon signing in, the default environment will be selected. Switch to an environment that has AI Builder enabled by opening the Environment drop-down menu at the top of the page. In this example, we would like to switch to the **Lab** environment.
 
 Note: A prerequisite to this lab is that an environment is created in one of the supported AI Builder regions (United States or Europe).  
 ![alt text](../images/img-lab-fp-05.png "Alt")  
+
+<div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
 
 ## Step 3 - Build, Train, and Publish an AI Model
 1. On the left side panel, expand **AI Builder**, click **Build**, and click **Form Processing**  
@@ -70,6 +80,8 @@ Note: A prerequisite to this lab is that an environment is created in one of the
 
 15. Click **Publish**  
 ![alt text](../images/img-lab-fp-20.png "Alt")  
+
+<div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
 
 ## Step 4 - Create a Canvas app
 1. Click **Create app**  
@@ -144,3 +156,5 @@ Note: If you are in a shared environment, there may be a number of models in thi
 
 24. Once complete, return to the preview mode by clicking the play button and analyzing another form from the training data set.  
 ![alt text](../images/img-lab-fp-44.png "Alt")  
+
+<div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
