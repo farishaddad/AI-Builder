@@ -16,7 +16,7 @@ In this lab we will build, train, and publish, a form processing AI model that w
 3. Enter your password and click **Sign in**  
 ![alt text](../images/img-lab-fp-03.png "Alt")  
 
-4. When prompted to Stay sign in, click **Yes**  
+4. When prompted to "Stay signed in", click **Yes**  
 ![alt text](../images/img-lab-fp-04.png "Alt")  
 
 ## Step 2 - Select an Environment
