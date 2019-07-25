@@ -8,7 +8,7 @@ In this lab we will build, train, and publish, a form processing AI model that w
 
 ## Step 1 - Sign in to PowerApps
 1. Navigate to [https://powerapps.microsoft.com/](https://powerapps.microsoft.com/) and click **Sign in**  
-![alt text](../images/img-lab-fp-01.png "Alt")  
+[![alt text](../images/img-lab-fp-01.png "Alt")](../../../raw/master/images/img-lab-fp-01.png)  
 
 2. Enter your Microsoft account (email address) and click **Next**  
 ![alt text](../images/img-lab-fp-02.png "Alt")  
