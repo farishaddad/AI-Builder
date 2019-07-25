@@ -22,11 +22,11 @@ In this lab we will build, train, and publish, a form processing AI model that w
 ## Step 2 - Select an Environment
 Once signed in, the default environment will likely be selected. Switch to an environment that has AI Builder enabled by opening the Environment drop-down menu at the top of the page. In this example, we would like to switch to the **Lab** environment.
 
-Note: A pre-requisite to this lab is that an environment is created in one of the supported AI Builder regions (United States or Europe).  
+Note: A prerequisite to this lab is that an environment is created in one of the supported AI Builder regions (United States or Europe).  
 ![alt text](../images/img-lab-fp-05.png "Alt")  
 
 ## Step 3 - Build an AI Model
-1. On the left side panel, expand **AI Builder**, click **Build**, click **Form Processing**  
+1. On the left side panel, expand **AI Builder**, click **Build**, and click **Form Processing**  
 ![alt text](../images/img-lab-fp-06.png "Alt")  
 
 2. Provide your model a **name** (e.g. Form Processing Model) and click **Create**  
@@ -35,7 +35,7 @@ Note: A pre-requisite to this lab is that an environment is created in one of th
 3. Click **Add documents**  
 ![alt text](../images/img-lab-fp-08.png "Alt")  
 
-4. 
+4. Navigate to the extracted contents of the provided [sample data](../data/ai-builder-lab-formprocessing.zip) and select the five forms under the **training** folder. Click **Open**.
 ![alt text](../images/img-lab-fp-09.png "Alt")  
 ![alt text](../images/img-lab-fp-10.png "Alt")  
 ![alt text](../images/img-lab-fp-11.png "Alt")  
