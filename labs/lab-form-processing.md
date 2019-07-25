@@ -25,7 +25,7 @@ Once signed in, the default environment will likely be selected. Switch to an en
 Note: A prerequisite to this lab is that an environment is created in one of the supported AI Builder regions (United States or Europe).  
 ![alt text](../images/img-lab-fp-05.png "Alt")  
 
-## Step 3 - Build an AI Model
+## Step 3 - Build, Train, and Publish an AI Model
 1. On the left side panel, expand **AI Builder**, click **Build**, and click **Form Processing**  
 ![alt text](../images/img-lab-fp-06.png "Alt")  
 
@@ -35,19 +35,43 @@ Note: A prerequisite to this lab is that an environment is created in one of the
 3. Click **Add documents**  
 ![alt text](../images/img-lab-fp-08.png "Alt")  
 
-4. Navigate to the extracted contents of the provided [sample data](../data/ai-builder-lab-formprocessing.zip) and select the five forms under the **training** folder. Click **Open**.
+4. Navigate to the extracted contents of the provided [sample data](../data/ai-builder-lab-formprocessing.zip) and select the five forms under the **training** folder. Click **Open**.  
 ![alt text](../images/img-lab-fp-09.png "Alt")  
+
+5. Click **Upload 5 documents**  
 ![alt text](../images/img-lab-fp-10.png "Alt")  
+
+6. Click **Close**  
 ![alt text](../images/img-lab-fp-11.png "Alt")  
+
+7. Click **Analyze**  
 ![alt text](../images/img-lab-fp-12.png "Alt")  
+
+8. Wait until AI Builder has finished analyzing the documents, this may take several minutes.  
 ![alt text](../images/img-lab-fp-13.png "Alt")  
+
+9. Click the tile to open the form fields selector.  
 ![alt text](../images/img-lab-fp-14.png "Alt")  
+
+10. Select all the fields on the form.  
 ![alt text](../images/img-lab-fp-15.png "Alt")  
+
+11. Change a subset of the selected fields to have friendly names by hovering over an item in the side panel on the right, click the pencil icon to enter edit mode, overwrite the text (e.g. AD to Address), then click the tick icon to confirm. Repeat this for Name, Address, Phone, Invoice Number, and Invoice Date. Then click **Done** in the top right hand corner.  
 ![alt text](../images/img-lab-fp-16.png "Alt")  
+
+12. Click **Next**  
 ![alt text](../images/img-lab-fp-17.png "Alt")  
+
+13. Click **Train**  
 ![alt text](../images/img-lab-fp-18.png "Alt")  
+
+14. Click **Go to Details page**  
 ![alt text](../images/img-lab-fp-19.png "Alt")  
+
+15. Click **Publish**  
 ![alt text](../images/img-lab-fp-20.png "Alt")  
+
+## Step 4 - Create a Canvas app
 ![alt text](../images/img-lab-fp-21.png "Alt")  
 ![alt text](../images/img-lab-fp-22.png "Alt")  
 ![alt text](../images/img-lab-fp-23.png "Alt")  
