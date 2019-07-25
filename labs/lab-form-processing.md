@@ -1,7 +1,9 @@
 # Lab 1 - Form Processing
 In this lab we will build, train, and publish, a form processing AI model that will be able to extract key-value pairs and table data. We will then create a simple form processing application that will leverage this AI model and render the processed results.
 
-[![alt text](../images/img-lab-fp-44.png "Alt")](../../../raw/master/images/img-lab-fp-44.png)  
+<p align="center">
+  <img src="../images/img-lab-fp-44.png" alt="Form Processing App" width="500px">
+</p> 
 
 ## Prerequisites
 1. Meet the standard set of prerequisites required for all labs as outlined in the main [README](../README.md)
