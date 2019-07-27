@@ -19,9 +19,8 @@ Meet the standard set of prerequisites required for all labs as outlined in the 
    [Step 6 - Save to the Cloud](#step-6---save-to-the-cloud)  
 
 ## Step 1 - Download the Sample Data
-1. Download the sample data: [ai-builder-lab-formprocessing.zip](../../../raw/master/data/ai-builder-lab-formprocessing.zip).  
-2. Once the download is complete, locate the zip file.  
-Note: The downloaded file will appear at the bottom of your browser window, click the appropriate menu item to open the containing folder.  
+1. Download the sample data by clicking this link: [ai-builder-lab-formprocessing.zip](../../../raw/master/data/ai-builder-lab-formprocessing.zip).  
+2. Once the download is complete, locate the zip file. Note: The file will appear at the bottom of your browser window, click the appropriate menu item to open the containing folder.  
 
     **Internet Explorer**  
     [![alt text](../images/img-lab-fp-46.png "Alt")](../../../raw/master/images/img-lab-fp-46.png)  
