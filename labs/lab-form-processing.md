@@ -236,7 +236,7 @@ Note: If you are in a shared environment, there may be a number of models in thi
    * Open your published Form Processing app
    * Analyze a form directly from the iOS device
 
-[![alt text](../images/img-lab-fp-59.png "Form Processing with PowerApps on the iPad")](https://vimeo.com/350481725) 
+    [![alt text](../images/img-lab-fp-59.png "Form Processing with PowerApps on the iPad")](https://vimeo.com/350481725) 
 
 
 <div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
