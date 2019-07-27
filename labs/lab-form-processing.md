@@ -8,32 +8,77 @@ In this lab we will build, train, and publish, a form processing AI model that w
 </p> 
 
 ## Prerequisites
-1. Meet the standard set of prerequisites required for all labs as outlined in the main [README](../README.md).
-2. Download the [Form Processing Sample Data](../../../raw/master/data/ai-builder-lab-formprocessing.zip).
-3. Extract the contents of the zip file on your local machine.
+Meet the standard set of prerequisites required for all labs as outlined in the main [README](../README.md).
 
 ## Table of Contents
-   [Step 1 - Sign in to PowerApps](#step-1---sign-in-to-powerapps)  
-   [Step 2 - Select an Environment](#step-2---select-an-environment)  
-   [Step 3 - Build, Train, and Publish an AI Model](#step-3---build-train-and-publish-an-ai-model)  
-   [Step 4 - Create a Canvas app](#step-4---create-a-canvas-app)  
+   [Step 1 - Download the Sample Data](#step-1---download-the-sample-data)  
+   [Step 2 - Sign in to PowerApps](#step-2---sign-in-to-powerapps)  
+   [Step 3 - Select an Environment](#step-3---select-an-environment)  
+   [Step 4 - Build, Train, and Publish an AI Model](#step-4---build-train-and-publish-an-ai-model)  
+   [Step 5 - Create a Canvas app](#step-5---create-a-canvas-app)  
+   [Step 6 - Save to the Cloud](#step-6---save-to-the-cloud)  
 
-## Step 1 - Sign in to PowerApps
-1. Navigate to [https://powerapps.microsoft.com/](https://powerapps.microsoft.com/) and click **Sign in**  
+## Step 1 - Download the Sample Data
+1. Download the sample data: [ai-builder-lab-formprocessing.zip](../../../raw/master/data/ai-builder-lab-formprocessing.zip).  
+2. Once the download is complete, locate the zip file.  
+Note: The downloaded file will appear at the bottom of your browser window, click the appropriate menu item to open the containing folder.  
+
+    **Internet Explorer**  
+    [![alt text](../images/img-lab-fp-46.png "Alt")](../../../raw/master/images/img-lab-fp-46.png)  
+
+    **Google Chrome**  
+    [![alt text](../images/img-lab-fp-47.png "Alt")](../../../raw/master/images/img-lab-fp-47.png)  
+
+    **Microsoft Edge**  
+    [![alt text](../images/img-lab-fp-45.png "Alt")](../../../raw/master/images/img-lab-fp-45.png)  
+
+3. Right-click the zip file and click **Extract All...**  
+    [![alt text](../images/img-lab-fp-48.png "Alt")](../../../raw/master/images/img-lab-fp-48.png)  
+
+4. Click **Extract**  
+    [![alt text](../images/img-lab-fp-49.png "Alt")](../../../raw/master/images/img-lab-fp-49.png)  
+
+5. Navigate back to the Downloads folder by clicking **Downloads** in the navigation bar.  
+    [![alt text](../images/img-lab-fp-51.png "Alt")](../../../raw/master/images/img-lab-fp-51.png)
+
+6. Select the zip file **ai-builder-lab-formprocessing.zip** and click **Delete** as we only need the extracted contents to remain.  
+    [![alt text](../images/img-lab-fp-50.png "Alt")](../../../raw/master/images/img-lab-fp-50.png)  
+
+<div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
+
+## Step 2 - Sign in to PowerApps
+1. Open a new browser window. 
+
+    **Tip #1**: If you have enough screen real estate, have these two windows side-by-side.
+    * Window 1 - This page with the lab instructions
+    * Window 2 - PowerApps
+    
+    Alternatively, you will need to switch between the two windows as you follow the instructions.
+
+    **Tip #2**: If you are signing in using a new account, use Incognito or InPrivate mode to ensure a clean sign in process.  
+
+    **Google Chrome**  
+    [![alt text](../images/img-lab-fp-53.png "Alt")](../../../raw/master/images/img-lab-fp-53.png)  
+
+    **Microsoft Edge**  
+    [![alt text](../images/img-lab-fp-52.png "Alt")](../../../raw/master/images/img-lab-fp-52.png)  
+
+
+2. Navigate to [https://powerapps.microsoft.com/](https://powerapps.microsoft.com/) and click **Sign in**  
 [![alt text](../images/img-lab-fp-01.png "Alt")](../../../raw/master/images/img-lab-fp-01.png)  
 
-2. Enter your Microsoft account (email address) and click **Next**  
+3. Enter your Microsoft account (email address) and click **Next**  
 [![alt text](../images/img-lab-fp-02.png "Alt")](../../../raw/master/images/img-lab-fp-02.png)  
 
-3. Enter your password and click **Sign in**  
+4. Enter your password and click **Sign in**  
 [![alt text](../images/img-lab-fp-03.png "Alt")](../../../raw/master/images/img-lab-fp-03.png)  
 
-4. When prompted to "Stay signed in", click **Yes**  
+5. When prompted to "Stay signed in", click **Yes**  
 [![alt text](../images/img-lab-fp-04.png "Alt")](../../../raw/master/images/img-lab-fp-04.png)  
 
 <div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
 
-## Step 2 - Select an Environment
+## Step 3 - Select an Environment
 Upon signing in, the default environment will be selected. Switch to an environment that has AI Builder enabled by opening the Environment drop-down menu at the top of the page. In this example, we would like to switch to the **Lab** environment.
 
 Note: A prerequisite to this lab is that an environment is created in one of the supported AI Builder regions (United States or Europe).  
@@ -41,7 +86,7 @@ Note: A prerequisite to this lab is that an environment is created in one of the
 
 <div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
 
-## Step 3 - Build, Train, and Publish an AI Model
+## Step 4 - Build, Train, and Publish an AI Model
 1. On the left side panel, expand **AI Builder**, click **Build**, and click **Form Processing**  
 [![alt text](../images/img-lab-fp-06.png "Alt")](../../../raw/master/images/img-lab-fp-06.png)  
 
@@ -69,27 +114,41 @@ Note: A prerequisite to this lab is that an environment is created in one of the
 9. Click the tile to open the form fields selector.  
 [![alt text](../images/img-lab-fp-14.png "Alt")](../../../raw/master/images/img-lab-fp-14.png)  
 
-10. Select all the fields on the form.  
+10. Select all the fields on the form by clicking on them.  
 [![alt text](../images/img-lab-fp-15.png "Alt")](../../../raw/master/images/img-lab-fp-15.png)  
 
-11. Change a subset of the selected fields to have friendly names by hovering over an item in the side panel on the right, click the pencil icon to enter edit mode, overwrite the text (e.g. AD to Address), then click the tick icon to confirm. Repeat this for Name, Address, Phone, Invoice Number, and Invoice Date. Then click **Done** in the top right hand corner.  
-[![alt text](../images/img-lab-fp-16.png "Alt")](../../../raw/master/images/img-lab-fp-16.png)  
+11. Hover over the **TO** field and click the **Pencil** icon to enter edit mode.  
+    [![alt text](../images/img-lab-fp-54.png "Alt")](../../../raw/master/images/img-lab-fp-54.png)
 
-12. Click **Next**  
+12. Rename the field to **Name** and click the **Tick** icon to confirm the change.    
+    [![alt text](../images/img-lab-fp-55.png "Alt")](../../../raw/master/images/img-lab-fp-55.png)
+
+13. Repeat this step until the following fields have all been renamed.
+    * TO > Name
+    * AD > Address
+    * PH > Phone
+    * INVOICE > Invoice Number
+    * Date > Invoice Date
+
+    Note: Ensure to check that all the changes have been confirmed by clicking the tick icon after renaming the field and that all the fields are selected with the purple tick on the left hand side of each field.
+
+    [![alt text](../images/img-lab-fp-56.png "Alt")](../../../raw/master/images/img-lab-fp-56.png)
+
+14. Click **Next**  
 [![alt text](../images/img-lab-fp-17.png "Alt")](../../../raw/master/images/img-lab-fp-17.png)  
 
-13. Click **Train**  
+15. Click **Train**  
 [![alt text](../images/img-lab-fp-18.png "Alt")](../../../raw/master/images/img-lab-fp-18.png)  
 
-14. Click **Go to Details page**  
+16. Wait until you see a dialog box that states "Training complete", then click **Go to Details page**  
 [![alt text](../images/img-lab-fp-19.png "Alt")](../../../raw/master/images/img-lab-fp-19.png)  
 
-15. Click **Publish**  
+17. Click **Publish**  
 [![alt text](../images/img-lab-fp-20.png "Alt")](../../../raw/master/images/img-lab-fp-20.png)  
 
 <div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
 
-## Step 4 - Create a Canvas app
+## Step 5 - Create a Canvas app
 1. Click **Create app**  
 [![alt text](../images/img-lab-fp-21.png "Alt")](../../../raw/master/images/img-lab-fp-21.png)  
 
@@ -162,5 +221,23 @@ Note: If you are in a shared environment, there may be a number of models in thi
 
 24. Once complete, return to the preview mode by clicking the play button and analyzing another form from the training data set.  
 [![alt text](../images/img-lab-fp-44.png "Alt")](../../../raw/master/images/img-lab-fp-44.png)  
+
+<div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
+
+## Step 6 - Save to the Cloud
+1. Click **File**  
+[![alt text](../images/img-lab-fp-57.png "Alt")](../../../raw/master/images/img-lab-fp-57.png)  
+
+2. Click **Save** > Click **The cloud** > Click  **Save**
+[![alt text](../images/img-lab-fp-58.png "Alt")](../../../raw/master/images/img-lab-fp-58.png) 
+
+3. By saving your app to the cloud, you can access it using PowerApps on iOS. Watch the video below to see how you can:
+   * Download PowerApps from the App Store
+   * Sign in using your Microsoft account
+   * Open your published Form Processing app
+   * Analyze a form directly from the iOS device
+
+[![alt text](../images/img-lab-fp-59.png "Form Processing with PowerApps on the iPad")](https://vimeo.com/350481725) 
+
 
 <div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
