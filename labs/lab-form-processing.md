@@ -230,11 +230,11 @@ Note: If you are in a shared environment, there may be a number of models in thi
 2. Click **Save** > Click **The cloud** > Click  **Save**
 [![alt text](../images/img-lab-fp-58.png "Alt")](../../../raw/master/images/img-lab-fp-58.png) 
 
-3. By saving your app, you can access it using PowerApps on iOS. Watch the video below.
+3. By saving your app to the cloud, you can access it using Windows, iOS, Android, or in a web browser. Watch the video below to see our form processing application running on an iPad.
    * Download PowerApps from the App Store
    * Sign in using your Microsoft account
    * Open your published Form Processing app
-   * Analyze a form directly from the iOS device
+   * Analyze a form directly from an iOS device
 
     [![alt text](../images/img-lab-fp-59.png "Form Processing with PowerApps on the iPad")](https://vimeo.com/350481725) 
 

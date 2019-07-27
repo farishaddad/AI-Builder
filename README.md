@@ -73,9 +73,9 @@ An AI model that uses machine learning to extract key-value pairs and table data
 
 ## 5. Course Modules
 * Lab 1 - [Form Processing](labs/lab-form-processing.md)
-* Lab 2 - Object Detection
-* Lab 3 - Binary Classification
-* Lab 4 - Text Classification
+* Lab 2 - [Object Detection](#) *(Coming Soon)*
+* Lab 3 - [Binary Classification](#) *(Coming Soon)*
+* Lab 4 - [Text Classification](#) *(Coming Soon)*
 
 <div align="right"><a href="#ai-builder">↥ back to top</a></div>
 
