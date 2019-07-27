@@ -230,7 +230,7 @@ Note: If you are in a shared environment, there may be a number of models in thi
 2. Click **Save** > Click **The cloud** > Click  **Save**
 [![alt text](../images/img-lab-fp-58.png "Alt")](../../../raw/master/images/img-lab-fp-58.png) 
 
-3. By saving your app to the cloud, you can access it using PowerApps on iOS. Watch the video below to see how you can:
+3. By saving your app, you can access it using PowerApps on iOS. Watch the video below.
    * Download PowerApps from the App Store
    * Sign in using your Microsoft account
    * Open your published Form Processing app
@@ -240,3 +240,5 @@ Note: If you are in a shared environment, there may be a number of models in thi
 
 
 <div align="right"><a href="#lab-1---form-processing">↥ back to top</a></div>
+
+Congratulations! You have succesfully built, trained, and published an AI model to process forms, then embedded that model within a PowerApps application.
