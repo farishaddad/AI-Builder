@@ -3,7 +3,7 @@ AI Builder is a new Power Platform capability that allows you to easily automate
 
 This repository will help you familiarise yourself with AI-Builder and jump start your development efforts with your own data to solve the unique needs of your business.
 
-We have an advanced solution accelerator for one of the scenarios, Form recognizer, that demonstrates using it as part of a end to end pipleline https://github.com/tayganr/DataOps 
+We have an advanced solution accelerator for one of the scenarios, Form Processing, that demonstrates using it as part of a end to end pipleline https://github.com/tayganr/DataOps 
 
 <p align="center">
   <img src="./images/power_platform.png" alt="AI Builder Process Flow" width="500px">
